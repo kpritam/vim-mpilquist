@@ -7,6 +7,7 @@ call vundle#rc()
 
 
 Bundle 'gmarik/vundle'
+Bundle 'morhetz/gruvbox'
 Bundle 'altercation/vim-colors-solarized'
 Bundle 'kien/ctrlp.vim'
 Bundle 'tpope/vim-fugitive'
