@@ -21,6 +21,6 @@ augroup END
 highlight OverLength ctermbg=Magenta ctermfg=white guibg=#592929
 match OverLength /\%141v./
 
-let g:solarized_termcolors=256
-set background=light
-colorscheme solarized
+" let g:solarized_termcolors=256
+set background=dark
+colorscheme gruvbox
